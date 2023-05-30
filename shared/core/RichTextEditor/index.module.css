@@ -1,0 +1,9 @@
+.editor h1 {
+  @apply text-black text-4xl font-bold;
+}
+.editor h2 {
+  @apply text-gray-800 text-3xl font-bold;
+}
+.editor li {
+  @apply !list-disc !ml-8;
+}
